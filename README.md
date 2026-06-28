@@ -26,7 +26,7 @@ Design scalable solutions and create technical roadmaps.
 Present technology strategy with budget, timeline, and resource planning.
 
 ## Time Allocation
-You have **5 business days** from receiving this repository. Estimated completion time: 2-4 hours.
+You have **5 business days** from receiving this repository. Estimated completion time: 30-45 minutes.
 
 ## Prerequisites
 - Windows 10/11 Professional or Enterprise
